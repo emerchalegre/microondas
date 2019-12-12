@@ -1,0 +1,29 @@
+C:\Users\Vieira\Desktop\Microondas Benner\solMicroondas\Microondas.View\bin\Debug\Microondas.View.exe.config
+C:\Users\Vieira\Desktop\Microondas Benner\solMicroondas\Microondas.View\bin\Debug\Microondas.View.exe
+C:\Users\Vieira\Desktop\Microondas Benner\solMicroondas\Microondas.View\bin\Debug\Microondas.View.pdb
+C:\Users\Vieira\Desktop\Microondas Benner\solMicroondas\Microondas.View\bin\Debug\Microondas.Controller.dll
+C:\Users\Vieira\Desktop\Microondas Benner\solMicroondas\Microondas.View\bin\Debug\Microondas.Controller.pdb
+C:\Users\Vieira\Desktop\Microondas Benner\solMicroondas\Microondas.View\obj\Debug\Microondas.View.csprojResolveAssemblyReference.cache
+C:\Users\Vieira\Desktop\Microondas Benner\solMicroondas\Microondas.View\obj\Debug\Microondas.View.Properties.Resources.resources
+C:\Users\Vieira\Desktop\Microondas Benner\solMicroondas\Microondas.View\obj\Debug\Microondas.View.csproj.GenerateResource.cache
+C:\Users\Vieira\Desktop\Microondas Benner\solMicroondas\Microondas.View\obj\Debug\Microondas.View.csproj.CoreCompileInputs.cache
+C:\Users\Vieira\Desktop\Microondas Benner\solMicroondas\Microondas.View\obj\Debug\Microondas.View.csproj.CopyComplete
+C:\Users\Vieira\Desktop\Microondas Benner\solMicroondas\Microondas.View\obj\Debug\Microondas.View.exe
+C:\Users\Vieira\Desktop\Microondas Benner\solMicroondas\Microondas.View\obj\Debug\Microondas.View.pdb
+C:\Users\Vieira\Desktop\Microondas Benner\solMicroondas\Microondas.View\obj\Debug\Microondas.View.frmAdicionarProgramacao.resources
+C:\Users\Vieira\Desktop\Microondas Benner\solMicroondas\Microondas.View\obj\Debug\Microondas.View.frmPrincipal.resources
+C:\Users\Vieira\Desktop\Microondas Benner\solMicroondas\Microondas.View\bin\Debug\Equin.ApplicationFramework.BindingListView.dll
+D:\ProjetoMicroondas-master\solMicroondas\Microondas.View\bin\Debug\Microondas.View.exe.config
+D:\ProjetoMicroondas-master\solMicroondas\Microondas.View\bin\Debug\Microondas.View.exe
+D:\ProjetoMicroondas-master\solMicroondas\Microondas.View\bin\Debug\Microondas.View.pdb
+D:\ProjetoMicroondas-master\solMicroondas\Microondas.View\bin\Debug\Equin.ApplicationFramework.BindingListView.dll
+D:\ProjetoMicroondas-master\solMicroondas\Microondas.View\bin\Debug\Microondas.Controller.dll
+D:\ProjetoMicroondas-master\solMicroondas\Microondas.View\bin\Debug\Microondas.Controller.pdb
+D:\ProjetoMicroondas-master\solMicroondas\Microondas.View\obj\Debug\Microondas.View.csprojAssemblyReference.cache
+D:\ProjetoMicroondas-master\solMicroondas\Microondas.View\obj\Debug\Microondas.View.frmAdicionarProgramacao.resources
+D:\ProjetoMicroondas-master\solMicroondas\Microondas.View\obj\Debug\Microondas.View.frmPrincipal.resources
+D:\ProjetoMicroondas-master\solMicroondas\Microondas.View\obj\Debug\Microondas.View.Properties.Resources.resources
+D:\ProjetoMicroondas-master\solMicroondas\Microondas.View\obj\Debug\Microondas.View.csproj.GenerateResource.cache
+D:\ProjetoMicroondas-master\solMicroondas\Microondas.View\obj\Debug\Microondas.View.csproj.CopyComplete
+D:\ProjetoMicroondas-master\solMicroondas\Microondas.View\obj\Debug\Microondas.View.exe
+D:\ProjetoMicroondas-master\solMicroondas\Microondas.View\obj\Debug\Microondas.View.pdb

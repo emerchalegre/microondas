@@ -1,0 +1,11 @@
+C:\Users\Vieira\Desktop\Microondas Benner\solMicroondas\Microondas.Controller\bin\Debug\Microondas.Controller.dll
+C:\Users\Vieira\Desktop\Microondas Benner\solMicroondas\Microondas.Controller\bin\Debug\Microondas.Controller.pdb
+C:\Users\Vieira\Desktop\Microondas Benner\solMicroondas\Microondas.Controller\obj\Debug\Microondas.Controller.csprojResolveAssemblyReference.cache
+C:\Users\Vieira\Desktop\Microondas Benner\solMicroondas\Microondas.Controller\obj\Debug\Microondas.Controller.csproj.CoreCompileInputs.cache
+C:\Users\Vieira\Desktop\Microondas Benner\solMicroondas\Microondas.Controller\obj\Debug\Microondas.Controller.dll
+C:\Users\Vieira\Desktop\Microondas Benner\solMicroondas\Microondas.Controller\obj\Debug\Microondas.Controller.pdb
+D:\ProjetoMicroondas-master\solMicroondas\Microondas.Controller\bin\Debug\Microondas.Controller.dll
+D:\ProjetoMicroondas-master\solMicroondas\Microondas.Controller\bin\Debug\Microondas.Controller.pdb
+D:\ProjetoMicroondas-master\solMicroondas\Microondas.Controller\obj\Debug\Microondas.Controller.csprojAssemblyReference.cache
+D:\ProjetoMicroondas-master\solMicroondas\Microondas.Controller\obj\Debug\Microondas.Controller.dll
+D:\ProjetoMicroondas-master\solMicroondas\Microondas.Controller\obj\Debug\Microondas.Controller.pdb
